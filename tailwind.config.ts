@@ -13,7 +13,13 @@ const config: Config = {
         "cust":"25vw",
         "custom2":"35vw"
       },
-      
+      colors:{
+        'custom1':'#F5F5F5',
+        'custom2':'#7E7E7E',
+        'custom3':'#F5F5F5',
+        'custom4':'#E5E5E5',
+        'custom5':'#BCBCBC',
+      },
       color: {
         background: "var(--background)",
         foreground: "var(--foreground)",
